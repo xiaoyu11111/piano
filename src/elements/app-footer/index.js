@@ -87,42 +87,6 @@ class AppFooter extends WeElement {
             })
           )
         )
-      ),
-      h(
-        "div",
-        {
-          class: "bg-yellow mt-5 py-5"
-        },
-        h(
-          "div",
-          {
-            class: "container"
-          },
-          h(
-            "div",
-            {
-              class: "text-center text-secondary"
-            },
-            "Made with ",
-            h(
-              "span",
-              {
-                role: "img",
-                "aria-label": "keyboard emoji"
-              },
-              "\uD83C\uDFB5"
-            ),
-            "by ",
-            h(
-              "a",
-              {
-                class: "text-secondary",
-                href: "https://github.com/Wscats"
-              },
-              h("strong", null, "@Eno Yao")
-            )
-          )
-        )
       )
     );
   }

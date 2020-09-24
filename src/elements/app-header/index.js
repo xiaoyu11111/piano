@@ -8,56 +8,6 @@ class AppHeader extends WeElement {
       h(
         "div",
         {
-          style: "background: rgb(51, 51, 51) none repeat scroll 0% 0%;"
-        },
-        h(
-          "div",
-          {
-            class: "container"
-          },
-          h(
-            "div",
-            {
-              class: "text-sm-center text-white py-5"
-            },
-            h("h1", null, "Omi Piano"),
-            h(
-              "p",
-              null,
-              "An interactive piano keyboard for omi. Supports custom sounds,",
-              h("br", {
-                class: "d-none d-sm-block"
-              }),
-              "touch/click/keyboard events, and fully auto play song."
-            ),
-            h(
-              "div",
-              {
-                class: "mt-4"
-              },
-              h(
-                "a",
-                {
-                  class: "btn btn-outline-light btn-lg",
-                  href: "https://github.com/Wscats/piano"
-                },
-                "View docs on Github"
-              ),
-              h(
-                "a",
-                {
-                  class: "btn btn-outline-light btn-lg",
-                  href: "https://github.com/Wscats/piano"
-                },
-                "\u67E5\u770B\u8BE5\u9879\u76EEGithub\u5730\u5740"
-              )
-            )
-          )
-        )
-      ),
-      h(
-        "div",
-        {
           class: "text-center"
         },
         h(
