@@ -176,6 +176,7 @@ class AppPiano extends WeElement {
     };
 
     document.onkeydown = event => {
+      event.preventDefault();
       var e = event || window.event || arguments.callee.caller.arguments[0];
 
       let playNote = key => {
