@@ -9,13 +9,6 @@
   <strong>基于Omi和Omi Snippets构建钢琴应用</strong>
 </p>
 
-
-<p>
-  <sub>Made with ❤︎ by
-    <a href="https://github.com/Wscats">Eno Yao</a>
-  </sub>
-</p>
-
 <p>
 <a href="https://github.com/Wscats/piano"><a href="https://opencollective.com/piano" alt="Financial Contributors on Open Collective"><img src="https://opencollective.com/piano/all/badge.svg?label=financial+contributors" /></a> <img src="https://img.shields.io/badge/Star-500+-orange" /></a>
 <a href="https://wscats.github.io/piano/build/"><img src="https://img.shields.io/badge/Version-5.20-brightgreen" /></a>

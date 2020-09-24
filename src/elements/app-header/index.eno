@@ -1,21 +1,5 @@
 <template name="app-header">
     <div>
-        <div style="background: rgb(51, 51, 51) none repeat scroll 0% 0%;">
-            <div class="container">
-                <div class="text-sm-center text-white py-5">
-                    <h1>Omi Piano</h1>
-                    <p>An interactive piano keyboard for omi. Supports custom sounds,<br class="d-none d-sm-block" />
-                        touch/click/keyboard events, and fully auto play song.</p>
-                    <div class="mt-4">
-                        <a class="btn btn-outline-light btn-lg" href="https://github.com/Wscats/piano">View docs on
-                            Github
-                        </a>
-                        <a class="btn btn-outline-light btn-lg" href="https://github.com/Wscats/piano">查看该项目Github地址
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
         <div class="text-center">
             <p class="">Try it by clicking, tapping, or using your keyboard 1 to 9:</p>
             <p class="">鼠标点击钢琴键或者键盘按数字键 1 ~ 9:</p>
